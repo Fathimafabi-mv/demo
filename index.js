@@ -8,4 +8,5 @@ function sub(a,b) {
 function div(a,b){
     return a/b;
 }
-let x=10;
+let q=10;
+const d=100;
