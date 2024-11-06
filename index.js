@@ -11,3 +11,7 @@ function div(a,b){
 let x=10;
 div,sub,add;
 console.log(add);
+function mult(a,b){
+    return a*b;
+}
+
