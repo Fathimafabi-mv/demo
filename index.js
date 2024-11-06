@@ -9,3 +9,5 @@ function div(a,b){
     return a/b;
 }
 let x=10;
+div,sub,add;
+console.log(add);
